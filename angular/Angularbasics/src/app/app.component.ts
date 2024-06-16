@@ -9,5 +9,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Angularbasics';
+  title = 'Angularbasics Document Title';
+  message='This is an added Property named message'
 }
